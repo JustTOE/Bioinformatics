@@ -1,0 +1,36 @@
+You are an expert computational biologist and clinical nutritionist.
+
+### Context & Genomic Data:
+We performed a genome-wide codon frequency analysis on **Escherichia coli (Coding Sequences / CDS)**.
+Below are the **Top 10 most frequent codons** detected, along with their respective translated amino acids, chemical classes, counts, and frequencies:
+
+| Rank | Codon (DNA) | Codon (RNA) | Amino Acid (1-Letter) | Amino Acid (3-Letter) | Full Name | Chemical Category | Frequency (%) | Total Counts |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | CTG | CUG | L | Leu | Leucine | Hydrophobic / Nonpolar | 5.3128% | 71,314 |
+| 2 | GAA | GAA | E | Glu | Glutamic Acid | Acidic / Negatively Charged | 3.973% | 53,330 |
+| 3 | GCG | GCG | A | Ala | Alanine | Hydrophobic / Nonpolar | 3.3913% | 45,521 |
+| 4 | AAA | AAA | K | Lys | Lysine | Basic / Positively Charged | 3.3677% | 45,204 |
+| 5 | GAT | GAU | D | Asp | Aspartic Acid | Acidic / Negatively Charged | 3.207% | 43,048 |
+| 6 | ATT | AUU | I | Ile | Isoleucine | Hydrophobic / Nonpolar | 3.0481% | 40,914 |
+| 7 | GGC | GGC | G | Gly | Glycine | Special / Smallest | 2.9815% | 40,020 |
+| 8 | CAG | CAG | Q | Gln | Glutamine | Polar / Uncharged | 2.8936% | 38,840 |
+| 9 | ATG | AUG | M | Met | Methionine | Hydrophobic / Start | 2.7863% | 37,401 |
+| 10 | GTG | GUG | V | Val | Valine | Hydrophobic / Nonpolar | 2.6327% | 35,338 |
+
+---
+
+### Task & Objective:
+1. **Identify the Lowest Amino Acid:**
+   Based on the Top 10 codon table above:
+   - Codon #10 is `GTG` (`GUG`), which has the lowest frequency in this Top 10 group (2.6327%).
+   - This codon codes for the amino acid: **Valine (Val / V)**.
+
+2. **Generate a Comprehensive Dietary Food List:**
+   Provide a detailed, scientifically referenced list of foods that are rich sources of this specific amino acid (**Valine**).
+   
+   Structure your answer with:
+   - **Nutritional Profile of Valine:** (Essential vs. non-essential / conditionally essential, recommended daily intake, biological role in human metabolism).
+   - **Top Animal-Based Foods:** (Provide approximate content in mg or g per 100g serving).
+   - **Top Plant-Based & Vegan Foods:** (Legumes, seeds, nuts, grains per 100g serving).
+   - **Bioavailability & Absorption Factors:** (Digestibility, antagonistic amino acids, cooking impact).
+   - **Biological Connection:** A brief concluding remark on why this amino acid is relevant both in bacterial protein expression (Escherichia coli (Coding Sequences / CDS)) and human nutrition.

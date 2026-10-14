@@ -1,0 +1,65 @@
+rank,codon,codon_rna,amino_acid,amino_acid_3,amino_acid_name,category,count,frequency_percent,frequency_per_thousand,is_start,is_stop
+1,TTT,UUU,F,Phe,Phenylalanine,Hydrophobic / Aromatic,1004,3.3577,33.58,False,False
+2,AAA,AAA,K,Lys,Lysine,Basic / Positively Charged,923,3.0869,30.87,False,False
+3,TTA,UUA,L,Leu,Leucine,Hydrophobic / Nonpolar,876,2.9297,29.3,False,False
+4,TGT,UGU,C,Cys,Cysteine,Polar / Special (Disulfide),858,2.8695,28.69,False,False
+5,TTG,UUG,L,Leu,Leucine,Hydrophobic / Nonpolar,817,2.7324,27.32,False,False
+6,ACA,ACA,T,Thr,Threonine,Polar / Uncharged,809,2.7056,27.06,False,False
+7,ATT,AUU,I,Ile,Isoleucine,Hydrophobic / Nonpolar,773,2.5852,25.85,False,False
+8,AAT,AAU,N,Asn,Asparagine,Polar / Uncharged,761,2.5451,25.45,False,False
+9,CTT,CUU,L,Leu,Leucine,Hydrophobic / Nonpolar,738,2.4681,24.68,False,False
+10,ATG,AUG,M,Met,Methionine,Hydrophobic / Start,725,2.4247,24.25,True,False
+11,TAA,UAA,*,Stop,Translation Termination,Stop Codon,719,2.4046,24.05,False,True
+12,CAA,CAA,Q,Gln,Glutamine,Polar / Uncharged,703,2.3511,23.51,False,False
+13,GTT,GUU,V,Val,Valine,Hydrophobic / Nonpolar,700,2.3411,23.41,False,False
+14,ACT,ACU,T,Thr,Threonine,Polar / Uncharged,674,2.2541,22.54,False,False
+15,TGA,UGA,*,Stop,Translation Termination,Stop Codon,630,2.107,21.07,False,True
+16,TAT,UAU,Y,Tyr,Tyrosine,Polar / Aromatic,622,2.0802,20.8,False,False
+17,AAC,AAC,N,Asn,Asparagine,Polar / Uncharged,615,2.0568,20.57,False,False
+18,TAC,UAC,Y,Tyr,Tyrosine,Polar / Aromatic,609,2.0367,20.37,False,False
+19,AGA,AGA,R,Arg,Arginine,Basic / Positively Charged,605,2.0233,20.23,False,False
+20,AAG,AAG,K,Lys,Lysine,Basic / Positively Charged,580,1.9397,19.4,False,False
+21,CTA,CUA,L,Leu,Leucine,Hydrophobic / Nonpolar,561,1.8762,18.76,False,False
+22,TGG,UGG,W,Trp,Tryptophan,Hydrophobic / Aromatic,554,1.8528,18.53,False,False
+23,GTG,GUG,V,Val,Valine,Hydrophobic / Nonpolar,552,1.8461,18.46,False,False
+24,TCA,UCA,S,Ser,Serine,Polar / Uncharged,549,1.8361,18.36,False,False
+25,TGC,UGC,C,Cys,Cysteine,Polar / Special (Disulfide),547,1.8294,18.29,False,False
+26,TCT,UCU,S,Ser,Serine,Polar / Uncharged,542,1.8126,18.13,False,False
+27,GAA,GAA,E,Glu,Glutamic Acid,Acidic / Negatively Charged,535,1.7892,17.89,False,False
+28,GCT,GCU,A,Ala,Alanine,Hydrophobic / Nonpolar,521,1.7424,17.42,False,False
+29,TTC,UUC,F,Phe,Phenylalanine,Hydrophobic / Aromatic,518,1.7324,17.32,False,False
+30,AGT,AGU,S,Ser,Serine,Polar / Uncharged,507,1.6956,16.96,False,False
+31,CTG,CUG,L,Leu,Leucine,Hydrophobic / Nonpolar,495,1.6555,16.55,False,False
+32,CAT,CAU,H,His,Histidine,Basic / Aromatic,484,1.6187,16.19,False,False
+33,ATA,AUA,I,Ile,Isoleucine,Hydrophobic / Nonpolar,471,1.5752,15.75,False,False
+34,GTA,GUA,V,Val,Valine,Hydrophobic / Nonpolar,469,1.5685,15.69,False,False
+35,CAC,CAC,H,His,Histidine,Basic / Aromatic,459,1.5351,15.35,False,False
+36,GGT,GGU,G,Gly,Glycine,Special / Smallest,454,1.5183,15.18,False,False
+37,GAT,GAU,D,Asp,Aspartic Acid,Acidic / Negatively Charged,440,1.4715,14.72,False,False
+38,CAG,CAG,Q,Gln,Glutamine,Polar / Uncharged,438,1.4648,14.65,False,False
+39,TAG,UAG,*,Stop,Translation Termination,Stop Codon,427,1.428,14.28,False,True
+40,ACC,ACC,T,Thr,Threonine,Polar / Uncharged,376,1.2575,12.57,False,False
+41,GCA,GCA,A,Ala,Alanine,Hydrophobic / Nonpolar,372,1.2441,12.44,False,False
+42,CCA,CCA,P,Pro,Proline,Special / Cyclic,354,1.1839,11.84,False,False
+43,CCT,CCU,P,Pro,Proline,Special / Cyclic,344,1.1505,11.5,False,False
+44,GAC,GAC,D,Asp,Aspartic Acid,Acidic / Negatively Charged,340,1.1371,11.37,False,False
+45,ATC,AUC,I,Ile,Isoleucine,Hydrophobic / Nonpolar,339,1.1337,11.34,False,False
+46,AGG,AGG,R,Arg,Arginine,Basic / Positively Charged,329,1.1003,11.0,False,False
+47,AGC,AGC,S,Ser,Serine,Polar / Uncharged,301,1.0067,10.07,False,False
+48,GAG,GAG,E,Glu,Glutamic Acid,Acidic / Negatively Charged,297,0.9933,9.93,False,False
+49,CTC,CUC,L,Leu,Leucine,Hydrophobic / Nonpolar,287,0.9598,9.6,False,False
+50,GGA,GGA,G,Gly,Glycine,Special / Smallest,282,0.9431,9.43,False,False
+51,GTC,GUC,V,Val,Valine,Hydrophobic / Nonpolar,269,0.8996,9.0,False,False
+52,GGC,GGC,G,Gly,Glycine,Special / Smallest,223,0.7458,7.46,False,False
+53,TCC,UCC,S,Ser,Serine,Polar / Uncharged,209,0.699,6.99,False,False
+54,GCC,GCC,A,Ala,Alanine,Hydrophobic / Nonpolar,187,0.6254,6.25,False,False
+55,CGT,CGU,R,Arg,Arginine,Basic / Positively Charged,171,0.5719,5.72,False,False
+56,ACG,ACG,T,Thr,Threonine,Polar / Uncharged,164,0.5485,5.48,False,False
+57,GGG,GGG,G,Gly,Glycine,Special / Smallest,134,0.4481,4.48,False,False
+58,CCC,CCC,P,Pro,Proline,Special / Cyclic,116,0.3879,3.88,False,False
+59,TCG,UCG,S,Ser,Serine,Polar / Uncharged,113,0.3779,3.78,False,False
+60,CGC,CGC,R,Arg,Arginine,Basic / Positively Charged,97,0.3244,3.24,False,False
+61,CGA,CGA,R,Arg,Arginine,Basic / Positively Charged,95,0.3177,3.18,False,False
+62,GCG,GCG,A,Ala,Alanine,Hydrophobic / Nonpolar,88,0.2943,2.94,False,False
+63,CGG,CGG,R,Arg,Arginine,Basic / Positively Charged,76,0.2542,2.54,False,False
+64,CCG,CCG,P,Pro,Proline,Special / Cyclic,74,0.2475,2.47,False,False
